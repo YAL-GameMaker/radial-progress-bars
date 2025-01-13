@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_radial_z",
+  "name":"sh_radial_z",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

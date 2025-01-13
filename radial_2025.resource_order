@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"draw_radial_begin","order":2,"path":"scripts/draw_radial_begin/draw_radial_begin.yy",},
+    {"name":"draw_sprite_radial","order":1,"path":"scripts/draw_sprite_radial/draw_sprite_radial.yy",},
+    {"name":"sh_radial_a","order":1,"path":"shaders/sh_radial_a/sh_radial_a.yy",},
+  ],
+}
